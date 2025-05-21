@@ -28,5 +28,3 @@ let emailAccount = false
 let gitHubLogIn = false
 
 console.log(gmailAccount || emailAccount); //Gives true even if one of them is true.
-
-
